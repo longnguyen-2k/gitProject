@@ -9,6 +9,8 @@ package gitProject;
  *
  * @author admin
  */
-public class Sound {
+interface Sound {
+    public void speaking();
+    
     
 }
